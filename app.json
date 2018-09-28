@@ -7,5 +7,6 @@
     "postdeploy": "echo \"this is the master branch\""
   },
   "env": {},
-  "addons": ["heroku-postgresql"]
+  "addons": ["heroku-postgresql"],
+  "logo": "https://www.iana.org/_img/2013.1/iana-logo-header.svg",
 }
