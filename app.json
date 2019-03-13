@@ -7,5 +7,6 @@
     "postdeploy": "echo \"this is the master branch\""
   },
   "env": {},
-  "addons": ["heroku-postgresql"]
+  "addons": ["heroku-postgresql"],
+  "branch": "test-2"
 }
